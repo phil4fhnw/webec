@@ -1,0 +1,67 @@
+header, footer {
+    color: #000000;
+    text-align: center;
+}
+
+body {
+    color: #dfe7ee;
+    background-color: #cebc81;
+}
+
+h1 {
+    color: #A1A1A1;
+    text-decoration: underline;
+}
+
+h2 {
+    color: #778899;
+}
+
+th {
+    color: #75727a;
+}
+
+caption {
+    color: #778899;
+}
+
+.center_colTop {
+    width: 20px;
+    color: #525f66;
+}
+
+.center_col {
+    text-align: center;
+    color: #525f66;
+}
+
+.holiday {
+    font-style: italic;
+    color: #525f66;
+}
+
+.important_date {
+    font-weight: bold;
+    color: #d33d2b;
+}
+
+.grid_container {
+    display: inline-grid;
+    width: 100%;
+    grid-template-columns: 25% auto 25%;
+    border-top: 1px solid rgba(0, 0, 0, 0.8);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.div_side {
+}
+
+.div_center {
+    background-color: #19181a;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2);
+}
